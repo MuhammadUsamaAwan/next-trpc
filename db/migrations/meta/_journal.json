@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1687341572375,
+      "tag": "0000_goofy_hairball",
+      "breakpoints": true
+    }
+  ]
+}
